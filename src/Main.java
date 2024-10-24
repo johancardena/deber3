@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        // Crear el primer objeto con datos "quemados"
         Empleado empleado1 = new Empleado("Juan Pérez", 30, 2500.0);
 
         System.out.println("Empleado 1 (datos quemados):");
